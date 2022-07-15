@@ -10,9 +10,9 @@ Este trabalho consiste em escrever um programa em C11 que calcule e imprima as �
 
 Com o terminal, vá a pasta em que está o código fonte, e rode o seguinte comando:
 
-´´´
+```
 gcc -c main.c
-´´´
+```
 
 E depois:
 

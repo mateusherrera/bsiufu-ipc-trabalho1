@@ -23,6 +23,7 @@ gcc -o areavolume areavolume.o
 ## Opcional: Organizar '.o' e executável
 
 Na pasta da compilação.
+
 Crie os diretórios 'obj/', para o '.o', e bin/, para o executável:
 
 ```

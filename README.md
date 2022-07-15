@@ -11,13 +11,13 @@ Este trabalho consiste em escrever um programa em C11 que calcule e imprima as �
 Com o terminal, vá a pasta em que está o código fonte, e rode o seguinte comando:
 
 ```
-gcc -c main.c
+gcc -c areavolume.c
 ```
 
 E depois:
 
 ```
-gcc -o main main.o
+gcc -o areavolume areavolume.o
 ```
 
 ## Opcional: Organizar '.o' e executável
@@ -33,8 +33,8 @@ mkdir bin/
 Depois mova o arquivo objeto e o executável para suas pastas:
 
 ```
-mv main.o obj/
-mv main bin/
+mv areavolume.o obj/
+mv areavolume bin/
 ```
 
 ## Para rodar o executável no terminal
@@ -42,5 +42,5 @@ mv main bin/
 Digite o comando na pasta onde está o executável:
 
 ```
-./main
+./areavolume
 ```

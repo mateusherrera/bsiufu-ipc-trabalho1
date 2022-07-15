@@ -1,7 +1,6 @@
-# Introdução à Programação de Computadores (1º Período)
-## Trabalho 1
+# Trabalho 1 - IPC
 
-Primeiro trabalho realizado na disciplina de Introdução à Programação de Computadores
+Primeiro trabalho realizado na disciplina de Introdução à Programação de Computadores (IPC).
 
 ## Descrição do trabalho
 
